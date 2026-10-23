@@ -1,96 +1,50 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Mohamed Saeed</h1>
-<h3 align="center">Full-Stack Developer • Software Tester • Cybersecurity & AI Enthusiast</h3>
-
-<!-- Subtle Wave -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="wave" width="50" />
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Front-End+%7C+Back-End;Cybersecurity+Engineer;AI+%26+Machine+Learning;Software+Tester;Building+Reliable+%26+Scalable+Solutions" alt="Typing Animation" />
-</p>
-
----
-
-## 🚀 About Me
-- 💻 Building **modern web apps** with React, Next.js, Node.js, Laravel  
-- 🧪 Skilled in **Software Testing** (Manual & Automation with Selenium, TestNG, POM)  
-- 🔐 Practicing **Cybersecurity engineering**  
-- 🧠 Exploring **AI, ML & Data Analysis** with Python  
-- ☁️ Learning **Cloud & scalable architectures**  
-- 🎯 Mission → Craft **reliable, innovative, world-class software**  
-
----
-
-## 🛠 Skills & Technologies  
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,python" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🔐 Cybersecurity, AI & Data
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-2F80ED?style=flat-square&logo=protonvpn&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-27AE60?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-F39C12?style=flat-square&logo=python&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats  
+<div align="center">
+  <img src="assets/profile-banner.svg" alt="Mohamed Saeed — software engineering, full-stack development, and automation" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsaeed&show_icons=true&hide_border=true&theme=default&bg_color=ffffff&title_color=2F80ED&icon_color=2F80ED&text_color=333333" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedsaeed&theme=default&hide_border=true&background=ffffff&ring=2F80ED&fire=EB5E28&currStreakLabel=27AE60" height="160" />
+  <a href="#about">About</a> ·
+  <a href="#focus">Engineering focus</a> ·
+  <a href="#work">Selected work</a> ·
+  <a href="#learning">Learning</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsaeed&layout=compact&hide_border=true&theme=default&bg_color=ffffff&title_color=2F80ED&text_color=333333" height="160" />
-</p>
+## About
 
----
+I’m a software developer focused on **full-stack development, Python, and test automation**. I enjoy turning requirements into clear features, connecting interfaces to APIs and data, and checking that the result works as expected.
 
-## 📌 Featured Projects
-- 🕹 **Hangman Game (Python)** → Core logic & algorithms  
-- 🎥 **Video Automation Testing (Shahid.com)** → Selenium + TestNG + POM  
-- 📧 **AI Email Manager (SaaS)** → Smart classification & Notion-style tasks  
-- 📱 **Tourism App (Flutter)** → Smooth cross-platform mobile app  
-- ☁️ **Java Web Services (SOAP & REST)** → Academic project  
+My approach combines practical engineering with a quality mindset: keep code understandable, test important behavior, and improve the product step by step.
 
----
+## Engineering focus
 
-## 🌍 Connect With Me  
+| Area | Tools and technologies |
+|---|---|
+| Web development | HTML, CSS, JavaScript, React, Angular |
+| Backend and APIs | ASP.NET Core, Node.js, REST APIs |
+| Testing and automation | Java, Selenium WebDriver, TestNG, API testing |
+| Data and workflow | SQL Server, Git, GitHub, Postman |
+| Scripting | Python |
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mohamedsaeed" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="32" />
-</a> &nbsp;
-<a href="https://twitter.com/mohamedsaeed" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="32" />
-</a> &nbsp;
-<a href="mailto:mohamedsaed3679@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="32" />
-</a> &nbsp;
-<a href="https://instagram.com/mohamedsaeed" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="32" />
-</a>
-</p>
+## Selected work
+
+- **[Complaints Management API](https://github.com/Mohammedsaeed-7/ComplaintsManagement)** — An ASP.NET Core project in progress. I’m developing the API foundation and expanding the implementation as I build out the application.
+- **[Online Store Interface](https://github.com/Mohammedsaeed-7/js-project-2)** — A multi-page storefront project with product browsing, search, cart, login, and registration screens, built with HTML, CSS, and JavaScript.
+
+[Browse all repositories →](https://github.com/Mohammedsaeed-7?tab=repositories)
+
+## Learning and training
+
+- Software Testing and Automation — Digital Egypt Pioneers Initiative (DEPI)
+- CS50x: Introduction to Computer Science — Harvard University
+- Google Cybersecurity Professional Certificate
+- Responsive Web Design — freeCodeCamp
+
+## Current direction
+
+I’m strengthening my skills in **backend development, API design, automation, and secure software practices** through hands-on projects and structured learning.
 
 ---
 
 <p align="center">
-  ✨ <i>“Great software isn’t just built — it’s designed, tested, and crafted with precision.”</i> ✨
+  <sub>Based in Egypt · Building useful software, one project at a time.</sub>
 </p>
