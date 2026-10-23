@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="#about">About</a> ·
-  <a href="#focus">Engineering focus</a> ·
-  <a href="#work">Selected work</a> ·
-  <a href="#learning">Learning</a>
+  <a href="#engineering-focus">Engineering focus</a> ·
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#learning-and-training">Learning</a>
 </p>
 
 ## About
